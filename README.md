@@ -1,7 +1,7 @@
 ### Hi there, I'm Hamza BOUAMAIR 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/HBouamair?color=1DA1F2&logo=twitter&style=for-the-badge)]
+![Twitter Follow](https://img.shields.io/twitter/follow/HBouamair?color=1DA1F2&logo=twitter&style=for-the-badge)
 
 ## I'm a Front-End  Developer, and Ux Designer !!
 
