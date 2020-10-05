@@ -34,8 +34,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<a href="https://github.com/0x1e0000/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbouamair&layout=compact&theme=synthwave" alt="Mohamed's most used languages" />
+<a href="https://github.com/hbouamair/">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbouamair&layout=compact&theme=synthwave" alt="Hamza's most used languages" />
 </a>
 <br />
 
