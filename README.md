@@ -3,7 +3,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/HBouamair?color=1DA1F2&logo=twitter&style=for-the-badge)
 
-## I'm a Front-End  Developer, and Ux Designer !!
+## I'm a Full Stack  Developer, and Ux Designer !!
 
 -  I m a Front-End developer , i m curious and i enjoy work that challenges me to learn something new and stretch in a different direction .
 
